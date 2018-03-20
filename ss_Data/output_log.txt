@@ -1,0 +1,182 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     3038 MB
+    Driver:   23.21.13.8792
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UnityProjects\completeunitycourse-laser-defender-c2008d595968\ss_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityProjects\completeunitycourse-laser-defender-c2008d595968\ss_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\completeunitycourse-laser-defender-c2008d595968\ss_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UnityProjects\completeunitycourse-laser-defender-c2008d595968\ss_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\completeunitycourse-laser-defender-c2008d595968\ss_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UnityProjects\completeunitycourse-laser-defender-c2008d595968\ss_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\completeunitycourse-laser-defender-c2008d595968\ss_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UnityProjects\completeunitycourse-laser-defender-c2008d595968\ss_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: D:\UnityProjects\completeunitycourse-laser-defender-c2008d595968\ss_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UnityProjects\completeunitycourse-laser-defender-c2008d595968\ss_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on MusicPlayer
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 44.749313 ms
+New Level load: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.484444 ms
+MusicPlayer: loaded level 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 338.
+Total: 0.262513 ms (FindLiveObjects: 0.023290 ms CreateObjectMapping: 0.013816 ms MarkObjects: 0.211984 ms  DeleteObjects: 0.011842 ms)
+
+Player Collided with missile
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scored points
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scored points
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scored points
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player Collided with missile
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Win Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.613847 ms
+MusicPlayer: loaded level 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 282.
+Total: 0.262513 ms (FindLiveObjects: 0.010658 ms CreateObjectMapping: 0.013421 ms MarkObjects: 0.155534 ms  DeleteObjects: 0.082504 ms)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.354492 ms
+Duplicate music player self-destructing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MusicPlayer: loaded level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MusicPlayer.OnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+MusicPlayer: loaded level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 294.
+Total: 0.256592 ms (FindLiveObjects: 0.020922 ms CreateObjectMapping: 0.012632 ms MarkObjects: 0.219090 ms  DeleteObjects: 0.003552 ms)
+
+New Level load: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.393967 ms
+MusicPlayer: loaded level 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 338.
+Total: 0.182772 ms (FindLiveObjects: 0.011842 ms CreateObjectMapping: 0.012632 ms MarkObjects: 0.149218 ms  DeleteObjects: 0.008684 ms)
+
+Player Collided with missile
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scored points
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player Collided with missile
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Win Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.533712 ms
+MusicPlayer: loaded level 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 282.
+Total: 0.277909 ms (FindLiveObjects: 0.024474 ms CreateObjectMapping: 0.012237 ms MarkObjects: 0.148034 ms  DeleteObjects: 0.081714 ms)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.298436 ms
+Duplicate music player self-destructing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MusicPlayer: loaded level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MusicPlayer.OnLevelWasLoaded (Int32 level) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+MusicPlayer: loaded level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 294.
+Total: 0.215142 ms (FindLiveObjects: 0.026053 ms CreateObjectMapping: 0.012237 ms MarkObjects: 0.173298 ms  DeleteObjects: 0.003158 ms)
+
+Quit requested
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 101c -> priority: 1 
+  Thread -> id: 11bc -> priority: 1 
+  Thread -> id: 3678 -> priority: 1 
+  Thread -> id: 354 -> priority: 1 
